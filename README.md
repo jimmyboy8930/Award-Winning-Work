@@ -3,6 +3,8 @@
 **Contact Info**  
 Feel free to reach out to me on LinkedIn if you want to get in touch with my Bastion Health boss and learn what made that project such a success!
 
+**Contact Me if your interested in buying my software (Spotify, Complete Password Manager, Discord Automation)**  
+
 ---
 
 ## Ranked Projects
