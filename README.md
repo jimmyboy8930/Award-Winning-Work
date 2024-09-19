@@ -28,9 +28,10 @@ These are projects I work on in my free time. They are more for personal growth 
    A custom Chrome extension that enhances the browsing experience by providing useful tools and features.
 
 2. **Spotify Playlist Automater**  
-   A tool to automate playlist generation and management on Spotify, using their public API.
-   I'm thinking about making this into payed software, so to any potential employers I will send you the video of everything working, and some code snippets.
-   But I don't want this public because it took days to get this working
+   - A tool to automate playlist generation and management on Spotify, using their public API.
+   - I'm thinking about making this into payed software. So to any potential employers I will send you the video of everything working, and some code snippets.
+   - But I don't want this public because it took days to get this working, and I did a better job than some payed websites I went to (backend wise)
+   - No front end to this, yet, besides the terminal messages.
 
 4. **Password Manager**  
    A local password manager built with SQLite for secure storage and management of passwords.
