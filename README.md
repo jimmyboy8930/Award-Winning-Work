@@ -1,9 +1,13 @@
 # My Project Showcase
 
-**Contact Info**  
+## Contact Info
 Feel free to reach out to me on LinkedIn if you want to get in touch with my Bastion Health boss and learn what made that project such a success!
 
-**Contact Me if your interested in buying my software (Spotify, Complete Password Manager, Discord Automation)**  
+**Interested in My Software? I freelance too**  
+Contact me if you're interested in buying my software:
+- **Spotify Playlist Automater**
+- **Complete Password Manager**
+- **Discord Automation**
 
 ---
 
