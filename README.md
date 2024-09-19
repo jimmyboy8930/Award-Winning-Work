@@ -29,14 +29,16 @@ These are projects I work on in my free time. They are more for personal growth 
 
 2. **Spotify Playlist Automater**  
    A tool to automate playlist generation and management on Spotify, using their public API.
+   I'm thinking about making this into payed software, so to any potential employers I will send you the video of everything working, and some code snippets.
+   But I don't want this public because it took days to get this working
 
-3. **Password Manager**  
+4. **Password Manager**  
    A local password manager built with SQLite for secure storage and management of passwords.
 
-4. **Discord Mod**  
+5. **Discord Mod**  
    A Discord bot designed to assist in moderating servers with various commands and automation features.
 
-5. **Other Projects**  
+6. **Other Projects**  
    Projects like Forza telemetry analysis and personal tax automation tools have been removed from the list to keep the focus on my more time-consuming and significant projects.
 
 ---
