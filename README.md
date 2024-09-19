@@ -30,7 +30,7 @@ These are projects I work on in my free time. They are more for personal growth 
 2. **Spotify Playlist Automater**  
    - A tool to automate playlist generation and management on Spotify, using their public API.
    - I'm thinking about making this into payed software. So to any potential employers I will send you the video of everything working, and some code snippets.
-   - But I don't want this public because it took days to get this working, and I did a better job than some payed websites I went to (backend wise)
+   - But I don't want this public because I did a better job than some payed websites I went to (backend wise)
    - No front end to this, yet, besides the terminal messages.
 
 4. **Password Manager**  
