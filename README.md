@@ -8,7 +8,7 @@ Contact me if you're interested in buying my software:
 - **Spotify Playlist Automater**
 - **Complete Password Manager**
 - **Discord Automation**
-- ** https://www.linkedin.com/in/james-frederick-50489624a/ **
+- https://www.linkedin.com/in/james-frederick-50489624a/
 ---
 
 ## Ranked Projects
