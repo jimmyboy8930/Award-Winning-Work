@@ -1,70 +1,104 @@
-# My Project Showcase
 
-## Contact Info
-Feel free to reach out to me on LinkedIn if you want to get in touch with my Bastion Health boss and learn what made that project such a success!
+# Project Showcase by James Frederick
 
-**Interested in My Software? I freelance too**  
-Contact me if you're interested in buying my software:
-- **Spotify Playlist Automater**
-- **Complete Password Manager**
-- **Discord Automation**
-- https://www.linkedin.com/in/james-frederick-50489624a/
----
-
-## Ranked Projects
-
-### Best School Work
-These are the top academic projects I've worked on. I’ve left a lot out, but here’s the most notable:
-
-1. **Bastion Health LLM**  
-   This project doubled as an internship, where I worked with large language models to enhance healthcare solutions. One of my proudest achievements. Winning third place award out of 30+ CSE teams at UCONN, and over 150 UCONN students in CSE. Out of respect for the company this code is not published. However, I'll put you into contact with the Director of the organization, and our group.
-
-2. **Java Movie Database**  
-   A highly complex project, focusing on managing and querying a large dataset of movies with various features. I did this all by myself, I have worked out all the bugs. Please test      it for yourself. This backend is durable enough to be put into existing search engines. This is some of the best code I have made, and it is object oriented programming. The backend on this is flawless.
-
-3. **Crime App**  
-   A robust application designed for tracking and reporting criminal activities (not in real life), utilizing various data sources for real-time updates. You will need Android Studio to test this. Works with most androids, due to the fluid nature of Android code. This code uses advanced technologies for resource managment and effeciency like Recycler lists. Improving effeciency by up to 20%
-
-4. **Personal Portfolio Website (In development)**  
-   This is a mix of school work and for fun work. It is my most complex web project, using PHP to query SQL database. Other languages include HTML, CSS and Java script, with room to add more. This is also utilizing the most modern cybersecurity measures like cookies, hashes, certificate from letsencrypt.org, headers, etc.  
-   - just ask me if you want to see the current version.
+Welcome to my professional project showcase. Here, you'll find a selection of my most notable academic and personal projects, each reflecting my passion for software development, problem-solving, and continuous learning. Please explore my work, and feel free to reach out if you’d like to discuss further.
 
 ---
 
-### Coding for Fun Projects
-These are projects I work on in my free time. They are more for personal growth and fun, so don’t judge them too harshly!
+## Contact Information
 
-1. **Spotify Playlist Automater (Potential Paid Software)**  
-   This tool automates playlist generation and management on Spotify using their public API. While there's no frontend yet (only terminal messages), I am considering making this into     paid software due to the backend quality exceeding that of some paid websites I've explored (improved search functionality).  
-   - The wild part about this, is that I can take that same Spotify search algorithm, apply it for songs within spotify, then transfer Spotify songs to apple music and other platforms, if I make a search for those platforms. The accuracy on plain text not even designed for the algorithm is about 98% for 1000 songs, on Spotify. Meaning my algorithm is already better than some payed software, that I experimented similar tests with. So I'm confident that this can easily adapt into commercial software. Because if I price it as less than my competition. There's a buisness right there. That is why I won't publish it. Unless I run it on a server, where people can use it, but not see the code.
-   - **Note to Employers**: If you're interested, I will provide a video demonstration of the tool in action, along with some code snippets. For now, this project remains private.  
-
-3. **Chrome Extension**  
-   A custom Chrome extension that enhances the browsing experience by providing useful tools and features. Maybe You want to use it for yourself :)  
-   
-4. **Password Manager**  
-   A local password manager built with SQLite for secure storage and management of passwords.
-
-5. **Discord Mod**  
-   A Discord bot designed to assist in moderating servers with various commands and automation features.
-
-6. **Other Projects**  
-   Projects like Forza telemetry analysis and personal tax automation tools have been removed from the list to keep the focus on my more time-consuming and significant projects.
+For inquiries, collaborations, or references, feel free to contact me via [LinkedIn](https://www.linkedin.com/in/james-frederick-50489624a/).
 
 ---
 
-### Additional Repositories
-- **Music Repository**  
-   You can check out my music projects, where I explore music theory and digital production.
-   
-- **Car Wiring Diagram**  
-   A detailed wiring diagram project for car enthusiasts.
+## Top Projects
+
+### 1. **Bastion Health LLM (Internship Project)**
+
+One of my proudest achievements was contributing to the development of a healthcare solution using large language models. This project was instrumental in my professional growth and won third place out of 30+ senior CSE teams and over 150 students at UCONN. While the code is not public due to confidentiality, I’d be happy to connect you with the Director for more information.
+
+- **Technologies**: Python, LLMs, Vue, Docker, Github, Healthcare Data Processing
+- **Highlights**: Award winning project in healthcare automation
+
+### 2. **Java Movie Database**  
+[GitHub Repository](https://github.com/jimmyboy8930/MovieSearch)
+
+A comprehensive, object-oriented movie database that manages and queries large datasets with advanced search features. This project demonstrates my ability to handle complex back-end systems.
+
+- **Technologies**: Java, OOP, Data Structures
+- **Highlights**: Fully functional, well-tested search engine for movie data
+
+### 3. **Crime App (Android)**  
+[GitHub Repository](https://github.com/jimmyboy8930/Android-crime-app)
+
+An Android app designed for tracking and visualizing fictional criminal activities. The app uses modern technologies like RecyclerView for efficiency.
+
+- **Technologies**: Android Studio, RecyclerView, Java
+- **Highlights**: Optimized UI for improved resource management and performance
+
+### 4. **Personal Portfolio Website (In Development)**
+
+A personal portfolio built with modern web technologies, integrating a secure backend using PHP and SQL databases, along with strong cybersecurity practices.
+
+- **Technologies**: PHP, MySQL, HTML, CSS, JavaScript, Security (SSL, Hashing)
+- **Highlights**: Demonstrates my ability to manage full-stack web applications with a focus on security.
 
 ---
 
-### Coming Soon
-Stay tuned! I plan to release more projects, when I get bored.
+## Personal and Fun Projects
+
+### 1. **Spotify Playlist Automater** (Private)
+
+This tool automates the creation and management of Spotify playlists using their public API. I’m particularly proud of the backend's efficiency and accuracy in searching and managing songs, making it competitive with paid alternatives.
+
+- **Technologies**: Python, Spotify API
+- **Highlights**: Achieves near-perfect search accuracy with potential to scale into paid software
+
+### 2. **Chrome Extension**  
+[GitHub Repository](https://github.com/jimmyboy8930/Chrome-Extension)
+
+A custom Chrome extension designed to enhance the user’s browsing experience with practical tools and features.
+
+- **Technologies**: JavaScript, Chrome Extensions API
+- **Highlights**: Functional browser utility for daily use
+
+### 3. **Password Manager**  
+[GitHub Repository](https://github.com/jimmyboy8930/password-manager)
+
+A secure password management tool built with SQLite, focusing on strong encryption and easy password retrieval.
+
+- **Technologies**: Python, SQLite
+- **Highlights**: Implements essential security features for personal password management
+
+### 4. **Discord Automation Bot**  
+[GitHub Repository](https://github.com/jimmyboy8930/Discord-auto-mod-python)
+
+A Discord bot to assist in server moderation with automated commands and features.
+
+- **Technologies**: Python
+- **Highlights**: Automates routine moderation tasks for Discord servers
+
+### 5. **Blockchain Innovation (Concept)**
+
+A blockchain project with a unique approach to addressing known weaknesses in existing blockchain models like immutability and proof-of-work. I plan to explore this idea further as I gain more expertise in cybersecurity.
+
+- **Technologies**: Blockchain, Cryptography
+- **Highlights**: Original concept for an innovative blockchain application (details private)
 
 ---
 
-Thanks for checking out my work! I’m always open to feedback or collaborations, so don’t hesitate to connect with me.
+## Other Notable Projects
+
+- **Music Production Repository**: [GitHub Repository](https://github.com/jimmyboy8930/Music-Production)
+- **Car Wiring Diagram Project**: A personal project for car enthusiasts focusing on detailed electrical schematics.
+
+---
+
+## Future Projects
+
+Stay tuned for upcoming projects, where I’ll continue to challenge myself and explore new technologies.
+
+---
+
+Thank you for taking the time to explore my project showcase! I’m always open to professional discussions and opportunities, so don’t hesitate to reach out.
+
