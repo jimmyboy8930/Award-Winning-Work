@@ -26,7 +26,7 @@ These are the top academic projects I've worked on. I’ve left a lot out, but h
    A robust application designed for tracking and reporting criminal activities, utilizing various data sources for real-time updates.
 
 4. **Personal Portfolio Website (In development)**  
-   My most complex web project, using PHP to query SQL database. Utilizing the most modern cybersecurity measures like cookies, hashes, certificate from letsencrypt.org, headers, etc.
+   This is a mix of school work and for fun work. My most complex web project, using PHP to query SQL database. Utilizing the most modern cybersecurity measures like cookies, hashes, certificate from letsencrypt.org, headers, etc.
 
 ---
 
