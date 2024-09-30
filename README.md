@@ -18,12 +18,12 @@ These are the top academic projects I've worked on. I’ve left a lot out, but h
 
 1. **Bastion Health LLM**  
    This project doubled as an internship, where I worked with large language models to enhance healthcare solutions. One of my proudest achievements. 
-   
-2. **Crime App**  
-   A robust application designed for tracking and reporting criminal activities, utilizing various data sources for real-time updates.
 
-3. **Java Movie Database (Coming Soon)**  
+2. **Java Movie Database**  
    A complex project in development, focusing on managing and querying a large dataset of movies with various features.
+
+3. **Crime App**  
+   A robust application designed for tracking and reporting criminal activities, utilizing various data sources for real-time updates.
 
 ---
 
