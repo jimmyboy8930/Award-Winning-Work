@@ -33,7 +33,7 @@ A comprehensive, object-oriented movie database that manages and queries large d
 
 An Android app designed for tracking and visualizing fictional criminal activities. The app uses modern technologies like RecyclerView for efficiency.
 
-- **Technologies**: Android Studio, RecyclerView, Java
+- **Technologies**: Android Studio, RecyclerView, Java/Kotlin
 - **Highlights**: Optimized UI for improved resource management and performance
 
 ### 4. **Personal Portfolio Website (In Development)**
