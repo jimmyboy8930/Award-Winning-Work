@@ -20,7 +20,7 @@ These are the top academic projects I've worked on. I’ve left a lot out, but h
    This project doubled as an internship, where I worked with large language models to enhance healthcare solutions. One of my proudest achievements. 
 
 2. **Java Movie Database**  
-   A complex project in development, focusing on managing and querying a large dataset of movies with various features.
+   A complex project in development, focusing on managing and querying a large dataset of movies with various features. I did this all by myself, I have worked out all the bugs. Please test it for yourself. This backend is durable enough to be put into existing search engines.
 
 3. **Crime App**  
    A robust application designed for tracking and reporting criminal activities, utilizing various data sources for real-time updates.
