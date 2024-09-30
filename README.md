@@ -17,13 +17,13 @@ Contact me if you're interested in buying my software:
 These are the top academic projects I've worked on. I’ve left a lot out, but here’s the most notable:
 
 1. **Bastion Health LLM**  
-   This project doubled as an internship, where I worked with large language models to enhance healthcare solutions. One of my proudest achievements. 
+   This project doubled as an internship, where I worked with large language models to enhance healthcare solutions. One of my proudest achievements. Winning third place award out of 30+ CSE teams at UCONN, and over 150 UCONN students in CSE. Out of respect for the company this code is not published. However, I'll put you into contact with the Director of the organization, and our group.
 
 2. **Java Movie Database**  
-   A complex project in development, focusing on managing and querying a large dataset of movies with various features. I did this all by myself, I have worked out all the bugs. Please test it for yourself. This backend is durable enough to be put into existing search engines.
+   A highly complex project, focusing on managing and querying a large dataset of movies with various features. I did this all by myself, I have worked out all the bugs. Please test it for yourself. This backend is durable enough to be put into existing search engines. This is some of the best code I have made, and it is object oriented programming. The backend on this is flawless.
 
 3. **Crime App**  
-   A robust application designed for tracking and reporting criminal activities, utilizing various data sources for real-time updates.
+   A robust application designed for tracking and reporting criminal activities, utilizing various data sources for real-time updates. You will need Android Studio to test this. Works with most androids, due to the fluid nature of Android code.
 
 4. **Personal Portfolio Website (In development)**  
    This is a mix of school work and for fun work. It is my most complex web project, using PHP to query SQL database. Other languages include HTML, CSS and Java script, with room to add more. This is also utilizing the most modern cybersecurity measures like cookies, hashes, certificate from letsencrypt.org, headers, etc.  
@@ -34,20 +34,20 @@ These are the top academic projects I've worked on. I’ve left a lot out, but h
 ### Coding for Fun Projects
 These are projects I work on in my free time. They are more for personal growth and fun, so don’t judge them too harshly!
 
-1. **Chrome Extension**  
-   A custom Chrome extension that enhances the browsing experience by providing useful tools and features.
-
-2. **Spotify Playlist Automater (Potential Paid Software)**  
+1. **Spotify Playlist Automater (Potential Paid Software)**  
    This tool automates playlist generation and management on Spotify using their public API. While there's no frontend yet (only terminal messages), I am considering making this into     paid software due to the backend quality exceeding that of some paid websites I've explored (improved search functionality).  
-   - **Note to Employers**: If you're interested, I will provide a video demonstration of the tool in action, along with some code snippets. For now, this project remains private.
+   - **Note to Employers**: If you're interested, I will provide a video demonstration of the tool in action, along with some code snippets. For now, this project remains private.  
 
-4. **Password Manager**  
+2. **Chrome Extension**  
+   A custom Chrome extension that enhances the browsing experience by providing useful tools and features. Maybe You want to use it for yourself :)  
+   
+3. **Password Manager**  
    A local password manager built with SQLite for secure storage and management of passwords.
 
-5. **Discord Mod**  
+4. **Discord Mod**  
    A Discord bot designed to assist in moderating servers with various commands and automation features.
 
-6. **Other Projects**  
+5. **Other Projects**  
    Projects like Forza telemetry analysis and personal tax automation tools have been removed from the list to keep the focus on my more time-consuming and significant projects.
 
 ---
