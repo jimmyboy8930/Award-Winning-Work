@@ -23,7 +23,7 @@ These are the top academic projects I've worked on. I’ve left a lot out, but h
    A highly complex project, focusing on managing and querying a large dataset of movies with various features. I did this all by myself, I have worked out all the bugs. Please test it for yourself. This backend is durable enough to be put into existing search engines. This is some of the best code I have made, and it is object oriented programming. The backend on this is flawless.
 
 3. **Crime App**  
-   A robust application designed for tracking and reporting criminal activities (not in real life), utilizing various data sources for real-time updates. You will need Android Studio to test this. Works with most androids, due to the fluid nature of Android code.
+   A robust application designed for tracking and reporting criminal activities (not in real life), utilizing various data sources for real-time updates. You will need Android Studio to test this. Works with most androids, due to the fluid nature of Android code. This code uses advanced technologies for resource managment and effeciency like Recycler lists. Improving effeciency by up to 20%
 
 4. **Personal Portfolio Website (In development)**  
    This is a mix of school work and for fun work. It is my most complex web project, using PHP to query SQL database. Other languages include HTML, CSS and Java script, with room to add more. This is also utilizing the most modern cybersecurity measures like cookies, hashes, certificate from letsencrypt.org, headers, etc.  
