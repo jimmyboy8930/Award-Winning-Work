@@ -88,7 +88,7 @@ A blockchain project with a unique approach to addressing known weaknesses in ex
 
 ## Additional Academic Projects
 
-### 1. **Mininet Firewall (Project 3)**  
+### 1. **Mininet Firewall**  
 [GitHub Repository](https://github.com/jimmyboy8930/Mininet-Firewall)
 
 This project implements a multi-threaded software-defined networking (SDN) controller using POX to manage network flows and block specific traffic. Mininet is used to simulate the network topology.
@@ -96,7 +96,7 @@ This project implements a multi-threaded software-defined networking (SDN) contr
 - **Technologies**: Linux, Python, Mininet, POX, SDN
 - **Highlights**: Demonstrates proficiency in network management and traffic control using SDN principles
 
-### 2. **Producer-Consumer Problem (C)**  
+### 2. **Producer-Consumer Problem**  
 [GitHub Repository](https://github.com/jimmyboy8930/C-Code)
 
 A multi-threaded implementation of the Producer-Consumer problem in C, demonstrating synchronization between threads using mutexes and condition variables.
@@ -104,12 +104,12 @@ A multi-threaded implementation of the Producer-Consumer problem in C, demonstra
 - **Technologies**: C, POSIX Threads, Mutexes, Condition Variables
 - **Highlights**: Efficient thread management and synchronization
 
-### 3. **Client-Server Socket Programming (C)**  
+### 3. **Client-Server Socket Programming**  
 [GitHub Repository](https://github.com/jimmyboy8930/Socket-programming)
 
-A client-server application built using sockets in C to handle communication between multiple clients and a server. Both single-threaded and multi-threaded server implementations are included.
+A client-server application built using sockets in Python to handle communication between multiple clients and a server. Both single-threaded and multi-threaded server implementations are included.
 
-- **Technologies**: Linux, C, Sockets, Multi-threading
+- **Technologies**: Linux, Python, Sockets, Multi-threading
 - **Highlights**: Demonstrates socket programming for network communication
 
 ---
