@@ -32,7 +32,7 @@ A comprehensive, object-oriented movie database that manages and queries large d
 
 An Android app designed for tracking and visualizing fictional criminal activities. The app uses modern technologies like RecyclerView for efficiency.
 
-- **Technologies**: Android Studio, RecyclerView, Java/Kotlin
+- **Technologies**: Android Studio, RecyclerView, XML, Java/Kotlin, etc.
 - **Highlights**: Optimized UI for improved resource management and performance
 
 ### 4. **Personal Portfolio Website (In Development)**
@@ -93,7 +93,7 @@ A blockchain project with a unique approach to addressing known weaknesses in ex
 
 This project implements a multi-threaded software-defined networking (SDN) controller using POX to manage network flows and block specific traffic. Mininet is used to simulate the network topology.
 
-- **Technologies**: Python, Mininet, POX, SDN
+- **Technologies**: Linux, Python, Mininet, POX, SDN
 - **Highlights**: Demonstrates proficiency in network management and traffic control using SDN principles
 
 ### 2. **Producer-Consumer Problem (C)**  
@@ -109,7 +109,7 @@ A multi-threaded implementation of the Producer-Consumer problem in C, demonstra
 
 A client-server application built using sockets in C to handle communication between multiple clients and a server. Both single-threaded and multi-threaded server implementations are included.
 
-- **Technologies**: C, Sockets, Multi-threading
+- **Technologies**: Linux, C, Sockets, Multi-threading
 - **Highlights**: Demonstrates socket programming for network communication
 
 ---
