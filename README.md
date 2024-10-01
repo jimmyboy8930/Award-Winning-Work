@@ -1,4 +1,3 @@
-
 # Project Showcase by James Frederick
 
 Welcome to my professional project showcase. Here, you'll find a selection of my most notable academic and personal projects, each reflecting my passion for software development, problem-solving, and continuous learning. Please explore my work, and feel free to reach out if you’d like to discuss further.
@@ -29,7 +28,7 @@ A comprehensive, object-oriented movie database that manages and queries large d
 - **Highlights**: Fully functional, well-tested search engine for movie data
 
 ### 3. **Crime App (Android)**  
-[GitHub Repository](https://github.com/jimmyboy8930/Android-crime-app)
+[GitHub Repository](https://github.com/jimmyboy8930/crime-app)
 
 An Android app designed for tracking and visualizing fictional criminal activities. The app uses modern technologies like RecyclerView for efficiency.
 
@@ -87,6 +86,34 @@ A blockchain project with a unique approach to addressing known weaknesses in ex
 
 ---
 
+## Additional Academic Projects
+
+### 1. **Mininet Firewall (Project 3)**  
+[GitHub Repository](https://github.com/jimmyboy8930/Mininet-Firewall)
+
+This project implements a multi-threaded software-defined networking (SDN) controller using POX to manage network flows and block specific traffic. Mininet is used to simulate the network topology.
+
+- **Technologies**: Python, Mininet, POX, SDN
+- **Highlights**: Demonstrates proficiency in network management and traffic control using SDN principles
+
+### 2. **Producer-Consumer Problem (C)**  
+[GitHub Repository](https://github.com/jimmyboy8930/C-Code)
+
+A multi-threaded implementation of the Producer-Consumer problem in C, demonstrating synchronization between threads using mutexes and condition variables.
+
+- **Technologies**: C, POSIX Threads, Mutexes, Condition Variables
+- **Highlights**: Efficient thread management and synchronization
+
+### 3. **Client-Server Socket Programming (C)**  
+[GitHub Repository](https://github.com/jimmyboy8930/Socket-programming)
+
+A client-server application built using sockets in C to handle communication between multiple clients and a server. Both single-threaded and multi-threaded server implementations are included.
+
+- **Technologies**: C, Sockets, Multi-threading
+- **Highlights**: Demonstrates socket programming for network communication
+
+---
+
 ## Other Notable Projects
 
 - **Music Production Repository**: [GitHub Repository](https://github.com/jimmyboy8930/Music-Production)
@@ -101,4 +128,3 @@ Stay tuned for upcoming projects, where I’ll continue to challenge myself and 
 ---
 
 Thank you for taking the time to explore my project showcase! I’m always open to professional discussions and opportunities, so don’t hesitate to reach out.
-
