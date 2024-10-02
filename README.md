@@ -13,6 +13,7 @@ For inquiries, collaborations, or references, feel free to contact me via [Linke
 ## Top Projects
 
 ### 1. **Bastion Health LLM (Internship Project)**
+[UCONN Award Page](https://www.cse.uconn.edu/awards-given-for-senior-design-project-competition/)
 
 One of my proudest achievements was contributing to the development of a healthcare solution using large language models. This project was instrumental in my professional growth and won third place out of 30+ senior CSE teams and over 150 students at UCONN. While the code is not public due to confidentiality, I’d be happy to connect you with the Director for more information.
 
